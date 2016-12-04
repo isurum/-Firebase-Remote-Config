@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<defaultsMap>
+    <entry>
+        <key>signup_prompt</key>
+        <value>Sign up!</value>
+    </entry>
+    <entry>
+        <key>min_password</key>
+        <value>5</value>
+    </entry>
+    <entry>
+        <key>is_promotion_available</key>
+        <value>false</value>
+    </entry>
+
+    <!-- color entries -->
+    <entry>
+        <key>color_primary</key>
+        <value>#3F51B5</value>
+    </entry>
+</defaultsMap>

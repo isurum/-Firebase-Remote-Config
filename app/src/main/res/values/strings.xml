@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Firebase Remote Config</string>
+    <string name="promo_code_hint">Enter the Coupon Code</string>
+    <string name="btn_register">Sign Up!</string>
+    <string name="username_hint">Enter the username</string>
+    <string name="email">Enter the email</string>
+    <string name="password">Enter the password</string>
+</resources>
